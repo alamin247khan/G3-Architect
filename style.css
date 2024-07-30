@@ -22,6 +22,11 @@
   color: #727272;
 }
 
+/* Dark 1 */
+.dark1{
+  color: rgb(19, 19, 19);
+}
+
 .bg-light {
   background-color: rgba(255, 144, 14, 0.1);
 }
@@ -39,6 +44,10 @@
 .section-title {
   font-size: 45px;
   font-weight: 500;
+}
+
+.fs20{
+  font-size: 20px;
 }
 
 main > section {
@@ -130,17 +139,24 @@ main {
 
 /* feature-you-will-love */
 
-.feature-you-will-love{
+.feature-you-will-love {
   justify-content: space-between;
 }
 
-.features-text-content{
+.features-text-content {
   width: 586px;
 }
 
-.side-border{
-  border-left: 5px solid #FF900E;
+.side-border {
+  border-left: 5px solid #ff900e;
   padding-left: 21px;
 }
 
+.features-card {
+  margin: 24px auto;
+  padding: 35px 42px 35px 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  background: rgb(255, 255, 255);
+}
 
