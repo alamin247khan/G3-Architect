@@ -1,5 +1,5 @@
 @media screen and (max-width: 576px) {
-    .navbar, .nav-link, .teams{
+    .navbar, .nav-link, .teams, .feature-you-will-love{
       flex-direction: column;
     }
 
